@@ -15,4 +15,4 @@ There are some versions of the tile inside the "assests" folder. Use them, or no
 </center>
 
 ### Live sample:
-You can see it (in action)[]
+You can see it (in action)[https://oneeyedman.github.io/the-shining-carpet-tile/]
