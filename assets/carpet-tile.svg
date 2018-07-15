@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="340px" height="500px" viewBox="0 0 340 500" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>carpet-tile</title>
+    <desc>Created with Sketch just for fun</desc>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="carpet-tile">
+            <rect id="Rectangle-3" fill="#412722" x="0" y="0" width="340" height="240"></rect>
+            <rect id="Rectangle-3-Copy" fill="#412722" x="0" y="294" width="340" height="206"></rect>
+            <polygon id="Combined-Shape" fill="#D8691C" points="2.84217094e-14 400 2.84217094e-14 40 150 130 150 310 60 364 60 440 20 440 20 388 0 400"></polygon>
+            <polygon id="Combined-Shape" fill="#412722" points="0 90 110 155 110 285 20 338.181818 20 420 0 420"></polygon>
+            <polygon id="Combined-Shape" fill="#9B1923" points="0 300 0 140 70 180 70 260"></polygon>
+            <polygon id="Combined-Shape" fill="#D8691C" points="340 400 320 388 320 440 280 440 280 364 190 310 190 130 340 40 340 400"></polygon>
+            <polygon id="Combined-Shape" fill="#412722" points="340 90 340 420 320 420 320 338.181818 230 285 230 155"></polygon>
+            <polygon id="Combined-Shape" fill="#9B1923" points="340 300 270 260 270 180 340 140"></polygon>
+            <polygon id="Combined-Shape" fill="#D8691C" points="320 500 20 500 20 330 170 240 320 330 320 500"></polygon>
+            <polygon id="Combined-Shape" fill="#412722" points="254.615385 500 85.3846154 500 60 485 60 355 150 301.818182 150 235 190 235 190 301.818182 280 355 280 485 254.615385 500"></polygon>
+            <polygon id="Polygon-Copy-20" fill="#9B1923" points="170 340 240 380 240 460 170 500 100 460 100 380"></polygon>
+            <polygon id="Combined-Shape" fill="#D8691C" points="320 0 320 10 170 100 20 10 20 0"></polygon>
+            <polygon id="Combined-Shape" fill="#412722" points="254.615385 -5.68434189e-14 170 50 85.3846154 -5.68434189e-14"></polygon>
+        </g>
+    </g>
+</svg>

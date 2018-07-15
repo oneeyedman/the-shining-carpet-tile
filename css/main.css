@@ -1,0 +1,7 @@
+body {
+  background: url('../assets/carpet-tile.svg');
+  background-color: #412722;
+  background-position: center center;
+  background-size: 170px auto;
+  margin: 0;
+}
